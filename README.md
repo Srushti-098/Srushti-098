@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Srushti-098
-- 👀 I’m interested in working with you 😉
+- Hi, I’m @Srushti-098
+- I’m interested in working with you
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me srushd987@gmail.com
